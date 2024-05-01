@@ -1,4 +1,4 @@
-# _____ Change Log
+# Reagordi Docs Change Log
 
 ## 1.0.0
 
